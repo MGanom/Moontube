@@ -6,6 +6,12 @@ Youtube API를 활용하여 만든 웹페이지
 ## 진행 기간
 210622 ~ 2120630
 
+## 사용 기술
+HTML, CSS(Post-CSS), JavaScript, React(CRA)
+
+## 사용 서비스
+Postman, Youtube API
+
 ## 페이지 구성
 ### 1. 영상 목록
 ![image](https://user-images.githubusercontent.com/80687334/130794098-fa2ff6b1-2386-4fdf-afdf-a718d018e943.png)
@@ -25,7 +31,6 @@ Youtube API를 활용하여 만든 웹페이지
 <img width="600" src="https://user-images.githubusercontent.com/80687334/130801683-722ccede-5688-4b80-9166-8960cc19b00e.png" />
 
 화면의 크기가 작아질 시 오른쪽에 세로로 정렬된 검색 목록이 아래로 내려가도록 반응형 구현을 했다.
-
 
 ## 진행 상황
 210622: 웹페이지 제작을 위한 초기세팅 <br />
